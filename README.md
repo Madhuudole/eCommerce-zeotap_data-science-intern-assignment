@@ -1,6 +1,6 @@
 
 
-# **Customer Segmentation and Lookalike Model - Data Science Assignment**
+# **eCommerce-zeotap_data-science-intern - Data Science Assignment**
 
 ## **Overview**
 This project focuses on analyzing an eCommerce dataset to derive insights, build predictive models, and perform customer segmentation. The main objectives include:
