@@ -97,4 +97,3 @@ This project is for educational purposes only. Data provided in the assignment r
 
 ---
 
-Feel free to customize the repository name, username, and additional sections as needed. Let me know if you need help with a `requirements.txt` file or other setup instructions!
